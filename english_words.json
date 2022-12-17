@@ -1,0 +1,17 @@
+[
+   {
+      "word":"airplane",
+      "hint":"means of transport",
+      "difficulty":3
+   },
+   {
+      "word":"tractor",
+      "hint":"for soil treatment",
+      "difficulty":2
+   },
+   {
+      "word":"run",
+      "hint":"health",
+      "difficulty":1
+   }
+]
