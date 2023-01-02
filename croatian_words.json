@@ -18,5 +18,15 @@
       "word":"naočale",
       "hint":"vid",
       "difficulty":2
+   },
+   {
+      "word":"skok",
+      "hint":"trening",
+      "difficulty"1
+   },
+   {
+      "word":"tipkovnica",
+      "hint":"periferija",
+      "difficulty":3
    }
 ]
