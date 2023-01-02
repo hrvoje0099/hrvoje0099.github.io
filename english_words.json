@@ -13,5 +13,20 @@
       "word":"run",
       "hint":"health",
       "difficulty":1
+   },
+   {
+      "word":"glasses",
+      "hint":"sight",
+      "difficulty":2
+   },
+   {
+      "word":"jump",
+      "hint":"training",
+      "difficulty":1
+   },
+   {
+      "word":"keyboard",
+      "hint":"periphery",
+      "difficulty":3
    }
 ]
